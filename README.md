@@ -60,7 +60,7 @@ The following error occurs with other commands.
 <pre>CondaValueError: could not parse 'name: [env_name]' in: [env_File]</pre>
 
 # installed package
-## pytorch1.12.1_p38_SAM_window.yaml python==3.10.9
+## pytorch1.12.1_SAM_window.yaml python==3.10.9
 ### Installed by conda
 <pre>
 matplotlib=3.7.1
